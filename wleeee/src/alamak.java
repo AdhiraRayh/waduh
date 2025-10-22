@@ -6,6 +6,6 @@ public class alamak {
         int y = 3;
         int sum = x + y;
         System.out.println("Sum = "+ sum);
-
+        System.out.println("alamak");
     }
 }
